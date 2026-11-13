@@ -1,7 +1,0 @@
-{
-  "name": "total-battle-params",
-  "version": "1.0.0",
-  "description": "Total Battle game parameters for JavaScript",
-  "main": "game_params.js",
-  "license": "MIT"
-}
